@@ -17,3 +17,6 @@ A Python utility that automatically cleans CSV datasets and generates basic visu
 - Automating data preprocessing
 - Writing reusable data tools
 - Generating visual insights programmatically
+## Sample Visualizations
+![Income Distribution](plots/income_distribution.png)
+![Loan vs Credit History](plots/loan_vs_credit.png)
